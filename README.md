@@ -1,4 +1,4 @@
-# prueba tecnica instruciones.
+# Prueba tecnica instruciones.
 Estos ejercicios estan desarrollados en python
 ## Ejercicio 1.
 Escriba una función que retorne la suma de una serie de X número repetido hasta el n-ésimo término. Ejemplos:
